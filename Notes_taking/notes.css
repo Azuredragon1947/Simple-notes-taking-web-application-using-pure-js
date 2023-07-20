@@ -1,0 +1,17 @@
+.main {
+      font-size: 2rem;
+      text-decoration: underline;
+      margin: 1rem 0;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.cover{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.full{
+      width: 65%;
+      align-self: center;
+}
+
